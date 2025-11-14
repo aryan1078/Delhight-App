@@ -1,0 +1,29 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# OS files
+.DS_Store
+
+# Java
+*.log
+
+# API Keys
+src/main/resources/application.properties
+src/main/resources/application.yml
+delhight-backend/
+postgres-data/
+.env
+
+# Frontend / React
+.DS_Store
+/node_modules/
+/.react-router/
+/build/
+
+postgres-data/
